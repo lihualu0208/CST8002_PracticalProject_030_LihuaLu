@@ -1,8 +1,8 @@
 # tests/test_seabird_service.py
 """
-CST8002 - Practical Project Part 02
+CST8002 - Practical Project Part 03
 Professor: Stanley Pieda
-Due Date: 2025-10-12
+Due Date: 2025-11-16
 Author: Lihua Lu
 
 Unit tests for the SeabirdService class.
