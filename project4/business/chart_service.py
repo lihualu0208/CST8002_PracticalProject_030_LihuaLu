@@ -75,7 +75,7 @@ class ChartService:
             bars = plt.bar(yearly_data.index, yearly_data.values, color='steelblue', alpha=0.7)
             
             # Customize the chart
-            plt.title('Yearly Bird Count Trends (1994-2017)', fontsize=16, fontweight='bold')
+            plt.title('Yearly Bird Count Trends (1994-2017)', fontsize=18, fontweight='bold')
             plt.xlabel('Year', fontsize=12)
             plt.ylabel('Total Bird Count', fontsize=12)
             plt.grid(axis='y', alpha=0.3)
